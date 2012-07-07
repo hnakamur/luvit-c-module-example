@@ -1,18 +1,16 @@
 # luvit-c-module-example
 
-This is a example C module for luvit.
+This is an example C module for luvit.
 
 ## Build
 
-On OSX, run
+run
 ```
-./build_osx.sh
+./build.sh
 ```
-
-On other OSes, see http://lua-users.org/wiki/BuildingModules
 
 ## TODO
-* Use gyp for build.
+* Add conditions for other OSes than mac in example.gyp.
 
 ## License
 
