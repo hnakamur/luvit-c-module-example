@@ -14,4 +14,4 @@ run
 
 ## License
 
-MIT license, for more info see [LICENSE](LICENSE).
+MIT license, for more info see [LICENSE](https://raw.github.com/hnakamur/luvit-c-module-example/master/LICENSE).
